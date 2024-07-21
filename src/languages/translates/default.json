@@ -1,0 +1,8 @@
+{
+    "请输入关键词": {
+        "en": "Please enter keywords",
+        "$files": [
+            "core/CustomSearch/index.tsx"
+        ]
+    }
+}
